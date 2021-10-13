@@ -10,4 +10,5 @@ its a system that regulates covid-19, by allowing a user to:
   -login
   -authorise user
   -check & update user details
-  -view and print user reports & results
+  -view and print user reports & results\
+  
